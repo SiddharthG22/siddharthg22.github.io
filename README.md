@@ -1,1 +1,5 @@
-# siddharthg22.github.io
+# all my things in one place.
+
+- teaching 👨🏽‍🏫
+- projects 👨🏽‍💻
+- miscellaneous stuff 😁
