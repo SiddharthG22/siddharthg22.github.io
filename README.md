@@ -1,4 +1,4 @@
-# all my things in one place.
+all my things in one place.
 
 - teaching 👨🏽‍🏫
 - projects 👨🏽‍💻
